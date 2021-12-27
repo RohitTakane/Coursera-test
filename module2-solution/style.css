@@ -12,6 +12,7 @@
             margin-right: auto;
             margin-left: auto;
             position: relative;
+            overflow: auto;
         }
      
         section >h1{
